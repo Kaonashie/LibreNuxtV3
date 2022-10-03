@@ -1,0 +1,6 @@
+node_modules
+*.d.ts
+*.mjs*
+tsconfig.json
+nuxt.json
+client.manifest.json

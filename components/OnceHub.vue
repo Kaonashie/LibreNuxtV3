@@ -29,7 +29,7 @@ export default {
       "src",
       "https://cdn.oncehub.com/mergedjs/so.js",
       "type",
-      "module"
+      "module" 
     );
     plugin.async = false;
     document.head.appendChild(plugin);
