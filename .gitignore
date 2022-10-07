@@ -4,3 +4,5 @@ node_modules
 tsconfig.json
 nuxt.json
 client.manifest.json
+.nuxt
+.*
