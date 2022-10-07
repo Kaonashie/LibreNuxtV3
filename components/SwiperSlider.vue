@@ -14,7 +14,7 @@
         <div class="overlaytext">
           <img
             class="logo"
-            src="https://libremedia.ca/img/logo-wh ite-large.png"
+            src="https://libremedia.ca/img/logo-white-large.png"
           />
           <h1 class="title">{{ image.title }}</h1>
           <p class="saison">{{ image.saison }}</p>
